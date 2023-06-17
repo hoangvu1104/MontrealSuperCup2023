@@ -29,7 +29,7 @@ export class TableResultPage implements OnInit {
     this.teamResultGroupA = [
       {
         teamName: Teams.VMU,
-        point: 3,
+        point: 0,
         won: 0,
         lost: 0,
         draw: 0,
@@ -40,7 +40,7 @@ export class TableResultPage implements OnInit {
       },
       {
         teamName: Teams.Stechco2,
-        point: 5,
+        point: 0,
         won: 0,
         lost: 0,
         draw: 0,
