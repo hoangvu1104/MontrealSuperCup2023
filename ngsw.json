@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1686998397574,
+  "timestamp": 1686998640163,
   "index": "https://hoangvu1104.github.io/MontrealSuperCup2023/index.html",
   "assetGroups": [
     {
@@ -75,7 +75,7 @@
         "https://hoangvu1104.github.io/MontrealSuperCup2023/9958.9db666c9b51c90f3.js",
         "https://hoangvu1104.github.io/MontrealSuperCup2023/common.a343e19d1de7ceb0.js",
         "https://hoangvu1104.github.io/MontrealSuperCup2023/index.html",
-        "https://hoangvu1104.github.io/MontrealSuperCup2023/main.19ce406f5c21e2d8.js",
+        "https://hoangvu1104.github.io/MontrealSuperCup2023/main.d24d796cfcb398ea.js",
         "https://hoangvu1104.github.io/MontrealSuperCup2023/manifest.webmanifest",
         "https://hoangvu1104.github.io/MontrealSuperCup2023/polyfills-core-js.20e9fb5568c66479.js",
         "https://hoangvu1104.github.io/MontrealSuperCup2023/polyfills-dom.3a5e3168052f1fc5.js",
@@ -216,8 +216,8 @@
     "https://hoangvu1104.github.io/MontrealSuperCup2023/assets/images/YellowTeam.jpg": "1cb2de87286f0fd3e0810c3f5ac214fd6d135da6",
     "https://hoangvu1104.github.io/MontrealSuperCup2023/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://hoangvu1104.github.io/MontrealSuperCup2023/common.a343e19d1de7ceb0.js": "e18b534bafb338c3e338f5b85ea09b4944b5d4c7",
-    "https://hoangvu1104.github.io/MontrealSuperCup2023/index.html": "9c04fd0e43a7aab8d9034f2e51650e2d8253fb5f",
-    "https://hoangvu1104.github.io/MontrealSuperCup2023/main.19ce406f5c21e2d8.js": "3fc1411bc97ceeab87eaa9cb95b3758f3b2150e1",
+    "https://hoangvu1104.github.io/MontrealSuperCup2023/index.html": "2958a6bf10389e95758292d59297f539d6d56fa2",
+    "https://hoangvu1104.github.io/MontrealSuperCup2023/main.d24d796cfcb398ea.js": "9913e95506e8c805dfd3dc7256a900f26497698e",
     "https://hoangvu1104.github.io/MontrealSuperCup2023/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
     "https://hoangvu1104.github.io/MontrealSuperCup2023/polyfills-core-js.20e9fb5568c66479.js": "7b2237821e79690f9dd2dac0b8a3b9ec6c229b76",
     "https://hoangvu1104.github.io/MontrealSuperCup2023/polyfills-dom.3a5e3168052f1fc5.js": "50f6ff473a0568bffb8a9d412d7efaced2d36137",
