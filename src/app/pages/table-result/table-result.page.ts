@@ -13,17 +13,14 @@ export class TableResultPage implements OnInit {
   teamResultGroupB: TeamResult[] = [];
   displayLogo: boolean = false;
   message: string = 'Hiển thị logo';
-  constructor(public commonFunctions : CommonFunctions) { }
+  constructor(public commonFunctions: CommonFunctions) { }
 
-  changeDisplayImages()
-  {
+  changeDisplayImages() {
     this.displayLogo = !this.displayLogo;
-    if (this.displayLogo)
-    {
+    if (this.displayLogo) {
       this.message = 'Hiển thị logo';
     }
-    else
-    {
+    else {
       this.message = 'Hiển thị màu áo';
     }
   }
@@ -31,7 +28,29 @@ export class TableResultPage implements OnInit {
   ngOnInit() {
     this.teamResultGroupA = [
       {
-        teamName : Teams.VMU,
+        teamName: Teams.VMU,
+        point: 3,
+        won: 0,
+        lost: 0,
+        draw: 0,
+        goalsFor: 0,
+        goalsAgainst: 0,
+        yellowCards: 0,
+        redCards: 0
+      },
+      {
+        teamName: Teams.Stechco2,
+        point: 5,
+        won: 0,
+        lost: 0,
+        draw: 0,
+        goalsFor: 0,
+        goalsAgainst: 0,
+        yellowCards: 0,
+        redCards: 0
+      },
+      {
+        teamName: Teams.U45FC,
         point: 0,
         won: 0,
         lost: 0,
@@ -42,29 +61,7 @@ export class TableResultPage implements OnInit {
         redCards: 0
       },
       {
-        teamName : Teams.Stechco2,
-        point: 0,
-        won: 0,
-        lost: 0,
-        draw: 0,
-        goalsFor: 0,
-        goalsAgainst: 0,
-        yellowCards: 0,
-        redCards: 0
-      },
-      {
-        teamName : Teams.U45FC,
-        point: 0,
-        won: 0,
-        lost: 0,
-        draw: 0,
-        goalsFor: 0,
-        goalsAgainst: 0,
-        yellowCards: 0,
-        redCards: 0
-      },
-      {
-        teamName : Teams.RBJunior,
+        teamName: Teams.RBJunior,
         point: 0,
         won: 0,
         lost: 0,
@@ -76,13 +73,13 @@ export class TableResultPage implements OnInit {
       }
     ].sort((a, b) => {
       return b.point - a.point ||
-            (b.goalsFor - b.goalsAgainst) - (a.goalsFor - a.goalsAgainst) ||
-            b.goalsFor - a.goalsFor;
-    });    
+        (b.goalsFor - b.goalsAgainst) - (a.goalsFor - a.goalsAgainst) ||
+        b.goalsFor - a.goalsFor;
+    });
 
     this.teamResultGroupB = [
       {
-        teamName : Teams.FC3Mien,
+        teamName: Teams.FC3Mien,
         point: 0,
         won: 0,
         lost: 0,
@@ -93,7 +90,7 @@ export class TableResultPage implements OnInit {
         redCards: 0
       },
       {
-        teamName : Teams.BFC,
+        teamName: Teams.BFC,
         point: 0,
         won: 0,
         lost: 0,
@@ -104,7 +101,7 @@ export class TableResultPage implements OnInit {
         redCards: 0
       },
       {
-        teamName : Teams.Stechco1,
+        teamName: Teams.Stechco1,
         point: 0,
         won: 0,
         lost: 0,
@@ -115,7 +112,7 @@ export class TableResultPage implements OnInit {
         redCards: 0
       },
       {
-        teamName : Teams.ASVMU,
+        teamName: Teams.ASVMU,
         point: 0,
         won: 0,
         lost: 0,
@@ -127,8 +124,8 @@ export class TableResultPage implements OnInit {
       }
     ].sort((a, b) => {
       return b.point - a.point ||
-            (b.goalsFor - b.goalsAgainst) - (a.goalsFor - a.goalsAgainst) ||
-            b.goalsFor - a.goalsFor;
-    });  
+        (b.goalsFor - b.goalsAgainst) - (a.goalsFor - a.goalsAgainst) ||
+        b.goalsFor - a.goalsFor;
+    });
   }
 }
