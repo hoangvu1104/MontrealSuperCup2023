@@ -30,7 +30,8 @@ export class ResultPage implements OnInit {
     this.divisions = [
       {
         time: this.time1, field: Fields.Field1,
-        teamA: groupA[0], teamB: groupA[1]
+        teamA: groupA[0], teamB: groupA[1],
+        //resultA: 0, resultB: 1
       },
       {
         time: this.time1, field: Fields.Field2,
