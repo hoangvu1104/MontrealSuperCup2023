@@ -385,7 +385,7 @@ export class TeamInfoPage implements OnInit {
               yellowCards: 0,
               redCards: 0
             },{
-              playerName: 'huynh Hai',
+              playerName: 'Huynh Hai',
               playerNumber: 0,
               goals: 0,
               assists: 0,
