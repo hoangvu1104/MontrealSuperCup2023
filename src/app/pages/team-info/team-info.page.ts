@@ -24,58 +24,194 @@ export class TeamInfoPage implements OnInit {
           teamLogoUrl: `${StaticVariable.ImagesPath}${StaticVariable.FC3MienLogo}`,
           teamMembers: [
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Thinh Ngo (C)',
+              playerNumber: 4,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             },
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Thao Tran',
+              playerNumber: 5,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             },
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Ha Nguyen',
+              playerNumber: 21,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             },
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Truong Pham',
+              playerNumber: 39,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             },
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Cuong Nguyen',
+              playerNumber: 32,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             },
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Tung Nguyen',
+              playerNumber: 19,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             },
             {
-              playerName: 'Hoang Nhat',
+              playerName: 'Tung Uong',
+              playerNumber: 17,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Phuoc Nguyen',
+              playerNumber: 2,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Duc Loc Tran',
+              playerNumber: 99,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Bao Tran',
+              playerNumber: 8,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Phi Hung Phan',
+              playerNumber: 29,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Phu Nguyen',
+              playerNumber: 9,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Trong Luat Nguyen',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Hanh Van',
+              playerNumber: 7,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Xuan Nhu Le',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Huu Khoi Pham',
+              playerNumber: 30,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Quang Pham',
+              playerNumber: 11,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Vy To',
+              playerNumber: 15,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Huu Tai Tran',
+              playerNumber: 10,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Bao Phan',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Kiet Nguyen',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Huu Tai Pham',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Van Thanh Ho',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Phuoc Pham',
               playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             }
@@ -90,10 +226,130 @@ export class TeamInfoPage implements OnInit {
           teamLogoUrl: `${StaticVariable.ImagesPath}${StaticVariable.BFCLogo}`,
           teamMembers: [
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Nguyen Duc Bao Toan (C)',
+              playerNumber: 8,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            },
+            {
+              playerName: 'Le The Dai Phong',
+              playerNumber: 11,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Luu Chi Duc',
+              playerNumber: 16,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Ho Minh Truc',
+              playerNumber: 82,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tran Quoc Viet',
+              playerNumber: 4,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Van Truong An',
+              playerNumber: 12,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Xuan Dinh',
+              playerNumber: 2,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Cubon Nguyen',
+              playerNumber: 13,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Cong Khang',
+              playerNumber: 20,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tran Ngoc Hong Quan',
+              playerNumber: 14,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Duc Anh',
+              playerNumber: 34,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Kyan Nguyen',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Dung Hoang',
+              playerNumber: 19,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Vu Dinh Duc',
+              playerNumber: 10,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'The Hung',
+              playerNumber: 77,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tam Nguyen',
+              playerNumber: 7,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Thang Do',
+              playerNumber: 21,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Hoang Truong',
+              playerNumber: 28,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             }
@@ -108,10 +364,115 @@ export class TeamInfoPage implements OnInit {
           teamLogoUrl: `${StaticVariable.ImagesPath}${StaticVariable.StechcoLogo}`,
           teamMembers: [
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Phạm Hoàng Bảo (C)',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Lê Hưng',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Kiều Cường',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyễn Ngọc Dũng',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Phụng Minh',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyễn Sỹ Quý',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nam Neo Vancouver',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Duc Vancouver',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Hoang Minh',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Son Dac',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Le Nhat',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tran Tuan',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tu Quach',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Cuong Nguyen',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Duy',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Huynh Thanh',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             }
@@ -126,10 +487,129 @@ export class TeamInfoPage implements OnInit {
           teamLogoUrl: `${StaticVariable.ImagesPath}${StaticVariable.StechcoLogo}`,
           teamMembers: [
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Đào Hà (C)',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Trần Bình',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Thái Phước',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Phạm Nhã',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Khương Hùng',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Đặng Khanh',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Bùi Quang Hiển',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyễn Nam (3M)',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tôn Việt Hưng',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Trương Tiến Dũng',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Lê Huy Bình',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Minh Granby',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyễn Minh Triết',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Hoang Esteban',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Huy Hoàng',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Đỗ Văn Trung',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Huynh Hai',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Cong Long',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             }
@@ -144,23 +624,23 @@ export class TeamInfoPage implements OnInit {
           teamLogoUrl: `${StaticVariable.ImagesPath}${StaticVariable.VMULogo}`,
           teamMembers: [
             {
-              playerName: 'Alexandre Đặng Minh Nhân',
-              playerNumber: 86,
+              playerName: 'Hoàng Trung Kiên',
+              playerNumber: 55,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Phạm Hoàng Vũ',
+              playerNumber: 10,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             },
             {
-              playerName: 'Nguyễn Trần Tim',
-              playerNumber: 2003,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
-              playerName: 'Phan Bảo Long',
-              playerNumber: 23,
+              playerName: 'Alexandre Đặng Minh Nhân',
+              playerNumber: 86,
               goals: 0,
               assists: 0,
               yellowCards: 0,
@@ -173,7 +653,7 @@ export class TeamInfoPage implements OnInit {
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Nguyễn Hoàng Tuấn',
+              playerName: 'Nguyễn Hoàng Tuấn (C)',
               playerNumber: 96,
               goals: 0,
               assists: 0,
@@ -186,7 +666,7 @@ export class TeamInfoPage implements OnInit {
               assists: 0,
               yellowCards: 0,
               redCards: 0
-            }, {
+            },{
               playerName: 'Đặng Anh Vũ',
               playerNumber: 47,
               goals: 0,
@@ -201,20 +681,13 @@ export class TeamInfoPage implements OnInit {
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Đặng Công Kiên',
-              playerNumber: 2,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
               playerName: 'Nguyễn Hoàng Lân',
               playerNumber: 84,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
-            }, {
+            },  {
               playerName: 'Lâm Quốc Cường',
               playerNumber: 34,
               goals: 0,
@@ -242,9 +715,17 @@ export class TeamInfoPage implements OnInit {
               assists: 0,
               yellowCards: 0,
               redCards: 0
+            }, 
+            {
+              playerName: 'Nguyễn Anh Kiệt',
+              playerNumber: 55,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
             }, {
-              playerName: 'Nguyễn Ngọc Duy',
-              playerNumber: 41,
+              playerName: 'Bùi Trần Thiên Phú',
+              playerNumber: 57,
               goals: 0,
               assists: 0,
               yellowCards: 0,
@@ -256,7 +737,7 @@ export class TeamInfoPage implements OnInit {
               assists: 0,
               yellowCards: 0,
               redCards: 0
-            },
+            }
           ].sort((a, b) => {
             return a.playerNumber - b.playerNumber;
           })
@@ -269,7 +750,7 @@ export class TeamInfoPage implements OnInit {
           teamMembers: [
             {
               playerName: 'Lê Thanh Hùng',
-              playerNumber: 30,
+              playerNumber: 55,
               goals: 0,
               assists: 0,
               yellowCards: 0,
@@ -277,7 +758,7 @@ export class TeamInfoPage implements OnInit {
             },
             {
               playerName: 'Lê Thành Đạt',
-              playerNumber: 82,
+              playerNumber: 3,
               goals: 0,
               assists: 0,
               yellowCards: 0,
@@ -291,78 +772,64 @@ export class TeamInfoPage implements OnInit {
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Hồ Lê Sơn Giang',
-              playerNumber: 14,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
               playerName: 'Nguyễn Vũ Thắng',
-              playerNumber: 60,
+              playerNumber: 9,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
               playerName: 'Hồ Trung Kiên',
-              playerNumber: 97,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
-              playerName: 'Nguyễn Lâm Tấn Phát',
-              playerNumber: 69,
+              playerNumber: 99,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
               playerName: 'Trần Tuấn Hào',
-              playerNumber: 31,
+              playerNumber: 6,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
               playerName: 'Thái Trần Minh Phát',
-              playerNumber: 93,
+              playerNumber: 8,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
               playerName: 'Đặng Văn Bình',
-              playerNumber: 38,
+              playerNumber: 4,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
               playerName: 'Trần Trung Tín',
-              playerNumber: 12,
+              playerNumber: 5,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
               playerName: 'Trương Minh Lương',
-              playerNumber: 82,
+              playerNumber: 100,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Nguyễn Công Hoan',
-              playerNumber: 25,
+              playerName: 'Công Hoan Nguyễn',
+              playerNumber: 88,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Trần Trung An',
-              playerNumber: 27,
+              playerName: 'Trần Trung An (C)',
+              playerNumber: 7,
               goals: 0,
               assists: 0,
               yellowCards: 0,
@@ -376,12 +843,33 @@ export class TeamInfoPage implements OnInit {
               redCards: 0
             }, {
               playerName: 'Đặng Đông',
-              playerNumber: 48,
+              playerNumber: 44,
               goals: 0,
               assists: 0,
               yellowCards: 0,
               redCards: 0
-            },
+            }, {
+              playerName: 'Đào Duy Khánh',
+              playerNumber: 58,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyễn Ngọc Duy',
+              playerNumber: 21,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Steve Hà',
+              playerNumber: 81,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }
           ].sort((a, b) => {
             return a.playerNumber - b.playerNumber;
           })
@@ -393,10 +881,143 @@ export class TeamInfoPage implements OnInit {
           teamLogoUrl: `${StaticVariable.ImagesPath}${StaticVariable.RBJuniorLogo}`,
           teamMembers: [
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Vuong Dinh Hoan (C)',
+              playerNumber: 8,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Le An Vinh',
+              playerNumber: 15,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tran Kevin',
+              playerNumber: 11,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Vo Hoang Khuong',
+              playerNumber: 28,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Ngo Ba Tuyen',
+              playerNumber: 17,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Ngo Tien Dat',
+              playerNumber: 29,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Truong Nguyen',
+              playerNumber: 6,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Hoang Quoc Anh',
+              playerNumber: 25,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Vo Duong Huy',
+              playerNumber: 20,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Duong Quang Huy',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Pham Hoang Anh',
+              playerNumber: 22,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Minh Hoang',
+              playerNumber: 23,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Dung Nho',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Anthony Vu',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Pham Le Anh Tuan',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Dang Nhat Minh',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Ngoc Anh Huy',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Phan Dinh Bao Long',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Dinh Hoang Lan',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Bui Phan Tung',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             }
@@ -411,10 +1032,108 @@ export class TeamInfoPage implements OnInit {
           teamLogoUrl: `${StaticVariable.ImagesPath}${StaticVariable.U45FCLogo}`,
           teamMembers: [
             {
-              playerName: 'Hoang Nhat',
-              playerNumber: 1,
-              goals: 17,
-              assists: 6,
+              playerName: 'Nguyen V. Tuong (C)',
+              playerNumber: 12,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Bang Nguyen',
+              playerNumber: 15,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Uy Nguyen',
+              playerNumber: 5,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tam Vo',
+              playerNumber: 8,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tam Le',
+              playerNumber: 25,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyen Van Phuc',
+              playerNumber: 26,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Duy Tran Si',
+              playerNumber: 27,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Khoa Nguyen',
+              playerNumber: 28,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Hoang Thai Ca',
+              playerNumber: 29,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Jimmy Nguyen',
+              playerNumber: 18,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Cuong Nguyen',
+              playerNumber: 30,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nhan Le',
+              playerNumber: 31,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Dan Tran',
+              playerNumber: 32,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Tung Do',
+              playerNumber: 33,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Kim Le',
+              playerNumber: 34,
+              goals: 0,
+              assists: 0,
               yellowCards: 0,
               redCards: 0
             }
