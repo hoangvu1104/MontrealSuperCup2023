@@ -352,6 +352,13 @@ export class TeamInfoPage implements OnInit {
               assists: 0,
               yellowCards: 0,
               redCards: 0
+            }, {
+              playerName: 'Huy Tran',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
             }
           ].sort((a, b) => {
             return a.playerNumber - b.playerNumber;
@@ -393,13 +400,6 @@ export class TeamInfoPage implements OnInit {
               redCards: 0
             }, {
               playerName: 'Phụng Minh',
-              playerNumber: 0,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
-              playerName: 'Nguyễn Sỹ Quý',
               playerNumber: 0,
               goals: 0,
               assists: 0,
@@ -470,6 +470,13 @@ export class TeamInfoPage implements OnInit {
               redCards: 0
             }, {
               playerName: 'Huynh Thanh',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyễn Minh Triết',
               playerNumber: 0,
               goals: 0,
               assists: 0,
@@ -571,21 +578,7 @@ export class TeamInfoPage implements OnInit {
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Nguyễn Minh Triết',
-              playerNumber: 0,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
               playerName: 'Hoang Esteban',
-              playerNumber: 0,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
-              playerName: 'Huy Hoàng',
               playerNumber: 0,
               goals: 0,
               assists: 0,
@@ -607,6 +600,13 @@ export class TeamInfoPage implements OnInit {
               redCards: 0
             }, {
               playerName: 'Nguyen Cong Long',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Nguyễn Sỹ Quý',
               playerNumber: 0,
               goals: 0,
               assists: 0,
@@ -1015,6 +1015,20 @@ export class TeamInfoPage implements OnInit {
               redCards: 0
             }, {
               playerName: 'Bui Phan Tung',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Bùi Cao Sơn',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Steve Hoang',
               playerNumber: 0,
               goals: 0,
               assists: 0,
