@@ -413,13 +413,6 @@ export class TeamInfoPage implements OnInit {
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Duc Vancouver',
-              playerNumber: 0,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
               playerName: 'Hoang Minh',
               playerNumber: 0,
               goals: 0,
@@ -477,6 +470,13 @@ export class TeamInfoPage implements OnInit {
               redCards: 0
             }, {
               playerName: 'Nguyễn Minh Triết',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Huynh Hai',
               playerNumber: 0,
               goals: 0,
               assists: 0,
@@ -592,13 +592,6 @@ export class TeamInfoPage implements OnInit {
               yellowCards: 0,
               redCards: 0
             }, {
-              playerName: 'Huynh Hai',
-              playerNumber: 0,
-              goals: 0,
-              assists: 0,
-              yellowCards: 0,
-              redCards: 0
-            }, {
               playerName: 'Nguyen Cong Long',
               playerNumber: 0,
               goals: 0,
@@ -607,6 +600,13 @@ export class TeamInfoPage implements OnInit {
               redCards: 0
             }, {
               playerName: 'Nguyễn Sỹ Quý',
+              playerNumber: 0,
+              goals: 0,
+              assists: 0,
+              yellowCards: 0,
+              redCards: 0
+            }, {
+              playerName: 'Pham Minh Quang',
               playerNumber: 0,
               goals: 0,
               assists: 0,
