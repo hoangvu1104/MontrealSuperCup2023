@@ -1,6 +1,6 @@
 export class StaticVariable {
-  //static ImagesPath: string = '/MontrealSuperCup2023/assets/images/';
-  static ImagesPath: string = '/assets/images/';
+  static ImagesPath: string = '/MontrealSuperCup2023/assets/images/';
+  //static ImagesPath: string = '/assets/images/';
   static VMULogo: string = 'VMU.jpg';
   static StechcoLogo: string = 'Stechco.png';
   static FC3MienLogo: string = '3MienFC.jpg';
