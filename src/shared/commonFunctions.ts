@@ -13,6 +13,7 @@ export class CommonFunctions {
     // Map each team to a CSS class based on the uniform color
     switch (team) {
       case Teams.Stechco1:
+      case 'Stechco1(*)':
         imagePath = `${StaticVariable.ImagesPath}` + (displayLogo ? `${StaticVariable.BlueTeam}` : `${StaticVariable.StechcoLogo}`);
         break;
       case Teams.ASVMU:
@@ -34,6 +35,7 @@ export class CommonFunctions {
         imagePath = `${StaticVariable.ImagesPath}` + (displayLogo ? `${StaticVariable.OrangeTeam}` : `${StaticVariable.RBJuniorLogo}`);         
         break;
       case Teams.BFC:
+      case 'BFC(*)':
         imagePath = `${StaticVariable.ImagesPath}` + (displayLogo ? `${StaticVariable.YellowTeam}` : `${StaticVariable.BFCLogo}`);         
         break;
       default:
