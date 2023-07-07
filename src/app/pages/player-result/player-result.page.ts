@@ -94,14 +94,6 @@ export class PlayerResultPage implements OnInit {
         redCards: 0,
       },{
         teamName: Teams.Stechco2,
-        playerName: 'Nguyễn Công Long',
-        playerNumber: 28,
-        goals: 2,
-        assists: 0,
-        yellowCards: 0,
-        redCards: 0,
-      },{
-        teamName: Teams.Stechco2,
         playerName: 'Huynh Hai',
         playerNumber: 77,
         goals: 2,//0+0+1+1
