@@ -31,51 +31,62 @@ export class ResultPage implements OnInit {
       {
         time: this.time1, field: Fields.Field1,
         teamA: groupA[0], teamB: groupA[1],
-        //resultA: 0, resultB: 1
+        resultA: 0, resultB: 9
       },
       {
         time: this.time1, field: Fields.Field2,
-        teamA: groupA[2], teamB: groupA[3]
+        teamA: groupA[2], teamB: groupA[3],
+        resultA: 0, resultB: 10
       },
       {
         time: this.time1, field: Fields.Field3,
-        teamA: groupB[0], teamB: groupB[1]
+        teamA: groupB[0], teamB: groupB[1],
+        resultA: 0, resultB: 3
       },
       {
         time: this.time1, field: Fields.Field4,
-        teamA: groupB[2], teamB: groupB[3]
+        teamA: groupB[2], teamB: groupB[3],
+        resultA: 7, resultB: 1
       },
       {
         time: this.time2, field: Fields.Field1,
-        teamA: groupA[0], teamB: groupA[2]
+        teamA: groupA[0], teamB: groupA[2],
+        resultA: 1, resultB: 7
       },
       {
         time: this.time2, field: Fields.Field2,
-        teamA: groupA[1], teamB: groupA[3]
+        teamA: groupA[1], teamB: groupA[3],
+        resultA: 1, resultB: 1
       },
       {
         time: this.time2, field: Fields.Field3,
-        teamA: groupB[0], teamB: groupB[2]
+        teamA: groupB[0], teamB: groupB[2],
+        resultA: 1, resultB: 1
       },
       {
         time: this.time2, field: Fields.Field4,
-        teamA: groupB[1], teamB: groupB[3]
+        teamA: groupB[1], teamB: groupB[3],
+        resultA: 8, resultB: 0
       },
       {
         time: this.time3, field: Fields.Field1,
-        teamA: groupA[0], teamB: groupA[3]
+        teamA: groupA[0], teamB: groupA[3],
+        resultA: 1, resultB: 11
       },
       {
         time: this.time3, field: Fields.Field2,
-        teamA: groupA[1], teamB: groupA[2]
+        teamA: groupA[1], teamB: groupA[2],
+        resultA: 4, resultB: 1
       },
       {
         time: this.time3, field: Fields.Field3,
-        teamA: groupB[0], teamB: groupB[3]
+        teamA: groupB[0], teamB: groupB[3],
+        resultA: 13, resultB: 2
       },
       {
         time: this.time3, field: Fields.Field4,
-        teamA: groupB[1], teamB: groupB[2]
+        teamA: groupB[1], teamB: groupB[2],
+        resultA: 4, resultB: 1
       }
       // Add more divisions as needed
     ];

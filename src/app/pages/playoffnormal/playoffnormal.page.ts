@@ -33,39 +33,47 @@ export class PlayoffnormalPage implements OnInit {
       // Semi Final
       {
         time: this.time1, field: Fields.Field1,
-        teamA: 'Nhất A', teamB: 'Nhì B'
+        teamA: 'RB Junior', teamB: 'Stechco1(*)',
+        resultA: 1, resultB: 1
       },
       {
         time: this.time1, field: Fields.Field2,
-        teamA: 'Nhì A', teamB: 'Nhất B'
+        teamA: 'Stechco2', teamB: 'BFC(*)',
+        resultA: 2, resultB: 2
       },
       {
         time: this.time1, field: Fields.Field3,
-        teamA: 'Ba A', teamB: 'Bốn B'
+        teamA: 'U45FC', teamB: 'AS-VMU',
+        resultA: 2, resultB: 7
       },
       {
         time: this.time1, field: Fields.Field4,
-        teamA: 'Bốn A', teamB: 'Ba B'
+        teamA: 'VMU', teamB: '3 Mien FC',
+        resultA: 0, resultB: 10
       }
     ];
     // Final
     this.finals= [      
       {
-        time: this.time2, field: Fields.Field1,
-        teamA: 'Thua BK1 (D1)', teamB: 'Thua BK2 (D1)'
-      },
-      {
         time: this.time2, field: Fields.Field2,
-        teamA: 'Thua BK1 (D2)', teamB: 'Thua BK2 (D2)'
+        teamA: 'RB Junior', teamB: 'Stechco2',
+        resultA: 4, resultB: 1
       },
       {
         time: this.time2, field: Fields.Field3,
-        teamA: 'Thắng BK1 (D2)', teamB: 'Thắng BK2 (D2)'
+        teamA: 'U45 FC', teamB: 'VMU',
+        resultA: 6, resultB: 1
+      },
+      {
+        time: this.time2, field: Fields.Field4,
+        teamA: '3 Mien FC', teamB: 'AS-VMU',
+        resultA: 2, resultB: 0
       }      
     ];
     this.finalD1 = [{
-      time: this.time3, field: Fields.Field1,
-      teamA: 'Thắng BK1 (D1)', teamB: 'Thắng BK2 (D1)'
+      time: this.time3, field: Fields.Field4,
+      teamA: 'Stechco1', teamB: 'BFC(*)',
+      resultA: 1, resultB: 1
     }];
   }
 
