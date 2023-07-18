@@ -8,7 +8,7 @@ import { Player } from 'src/models/Player';
   styleUrls: ['./mix-doubles-info.page.scss'],
 })
 export class MixDoublesInfoPage implements OnInit {
-  countdown = 5;
+  countdown = 10;
   teamsToShowA: string[] = []; // Teams to show for Group A
   teamsToShowB: string[] = []; // Teams to show for Group B
   WomenPlayersLevelA: any[] = [];
